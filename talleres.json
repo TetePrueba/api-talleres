@@ -1,0 +1,19 @@
+{
+    "talleres": [
+        {
+            "nombre": "Taller MotoExpress",
+            "direccion": "Av. Rivadavia 1234, Buenos Aires",
+            "detalles": "Especializado en reparación de motos de todas las marcas. Servicio rápido y de calidad."
+        },
+        {
+            "nombre": "Taller MotoMania",
+            "direccion": "Calle San Martín 567, Córdoba",
+            "detalles": "Taller con amplia experiencia en mantenimiento y reparación de motocicletas. Personal altamente capacitado."
+        },
+        {
+            "nombre": "Taller MotoVeloz",
+            "direccion": "Av. Belgrano 789, Rosario",
+            "detalles": "Especialistas en motos deportivas. Realizamos ajustes, reparaciones y modificaciones."
+        }
+    ]
+}
